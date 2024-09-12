@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Solar_Website/static/css/main.ea1d1f1d.css",
+    "main.js": "/Solar_Website/static/js/main.504fe58e.js",
+    "static/js/453.1fb92fff.chunk.js": "/Solar_Website/static/js/453.1fb92fff.chunk.js",
+    "static/media/solar2.jpg": "/Solar_Website/static/media/solar2.af30c27300d1ed1158ae.jpg",
+    "static/media/solar-project-2.png": "/Solar_Website/static/media/solar-project-2.1f15cefa0d9e398e1412.png",
+    "static/media/solar1.jpg": "/Solar_Website/static/media/solar1.5eb0df22e8cac3580626.jpg",
+    "static/media/solar-project-6.jpg": "/Solar_Website/static/media/solar-project-6.da11d13c413f2f406a89.jpg",
+    "static/media/solar3.jpg": "/Solar_Website/static/media/solar3.8d24baf15fc6cad0a94b.jpg",
+    "static/media/solar-project-1.jpg": "/Solar_Website/static/media/solar-project-1.c085c1b6c2b58988ce42.jpg",
+    "static/media/solar-project-5.webp": "/Solar_Website/static/media/solar-project-5.7c16c325b566daab70ad.webp",
+    "index.html": "/Solar_Website/index.html",
+    "main.ea1d1f1d.css.map": "/Solar_Website/static/css/main.ea1d1f1d.css.map",
+    "main.504fe58e.js.map": "/Solar_Website/static/js/main.504fe58e.js.map",
+    "453.1fb92fff.chunk.js.map": "/Solar_Website/static/js/453.1fb92fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea1d1f1d.css",
+    "static/js/main.504fe58e.js"
+  ]
+}
